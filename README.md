@@ -20,7 +20,7 @@ It is some maximum orders distorting (jumping out) from regular sales report:
 
 Country AA has bigest sales in Eur:
 
-![image](https://user-images.githubusercontent.com/34160094/154744095-881ccd1d-120e-491a-8224-8a676889dded.png)![image](https://user-images.githubusercontent.com/34160094/154744163-dfeac8e1-ff3b-4860-a30f-e7f42ad7a88c.png)
+![image](https://user-images.githubusercontent.com/34160094/154744095-881ccd1d-120e-491a-8224-8a676889dded.png)![image](https://user-images.githubusercontent.com/34160094/154745742-fe13afe9-4aa1-4e98-a341-3f13a0b3e3ac.png)
 
 4. How does the distribution of orders by € look like in each country?
 
