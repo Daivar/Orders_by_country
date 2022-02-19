@@ -20,13 +20,18 @@ It is some maximum orders distorting (jumping out) from regular sales report:
 
 Country AA has bigest sales in Eur:
 
-![image](https://user-images.githubusercontent.com/34160094/154745742-fe13afe9-4aa1-4e98-a341-3f13a0b3e3ac.png)![image](https://user-images.githubusercontent.com/34160094/154744095-881ccd1d-120e-491a-8224-8a676889dded.png)
+![image](https://user-images.githubusercontent.com/34160094/154745742-fe13afe9-4aa1-4e98-a341-3f13a0b3e3ac.png)![image](https://user-images.githubusercontent.com/34160094/154798035-89ad57ea-d444-4e63-a418-30072ccf9b6e.png)
 
 4. How does the distribution of orders by € look like in each country?
 
-Country/ City 
+Country/ City sales
 
 ![image](https://user-images.githubusercontent.com/34160094/154744754-60671cae-ceef-4b85-8056-840d6970181d.png)![image](https://user-images.githubusercontent.com/34160094/154797921-4f3c827e-4f54-4cbc-b7fe-4098457faf52.png)
+
+Sales by Country:
+
+![image](https://user-images.githubusercontent.com/34160094/154798021-b37e0c3d-5d52-4513-92ab-0fa73afe3333.png)
+
 
 Country AA has higest sales (table axe is millions, Eur), country CC has lowest sales, but country CC averages are higest:
 
