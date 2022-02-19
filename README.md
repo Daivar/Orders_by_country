@@ -4,7 +4,7 @@
 
 Average monthly order is 64.4 Eur in January and slowly growing up to 66.5 Eur in July.
 
-![image](https://user-images.githubusercontent.com/34160094/154737591-4041d35c-8992-4f0b-8425-4bba1d29e6c0.png)
+![image](https://user-images.githubusercontent.com/34160094/154797664-364846f4-04cb-4ea8-a37f-0de39122e2cc.png)
 
 2. What are the reasons of average order (€) increase/decrease? Is it due to prices of products, sales for legal customers, number of products, etc.?
 
