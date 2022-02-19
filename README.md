@@ -24,6 +24,8 @@ Country AA has bigest sales in Eur:
 
 4. How does the distribution of orders by € look like in each country?
 
+Country/ City 
+
 ![image](https://user-images.githubusercontent.com/34160094/154744754-60671cae-ceef-4b85-8056-840d6970181d.png)![image](https://user-images.githubusercontent.com/34160094/154797921-4f3c827e-4f54-4cbc-b7fe-4098457faf52.png)
 
 Country AA has higest sales (table axe is millions, Eur), country CC has lowest sales, but country CC averages are higest:
