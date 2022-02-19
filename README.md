@@ -35,7 +35,7 @@ Sales by Country:
 
 Country AA has higest sales (table axe is millions, Eur), country CC has lowest sales, but country CC averages are higest:
 
-![image](https://user-images.githubusercontent.com/34160094/154745384-4185d74c-e1d2-4ef5-b5cd-40faf1fc07bd.png)![image](https://user-images.githubusercontent.com/34160094/154745557-7c2705e9-c89f-45a9-a164-0ccfce0b1dc7.png)
+![image](https://user-images.githubusercontent.com/34160094/154798086-02b97086-0459-4393-8b8d-7f5435f1d236.png)![image](https://user-images.githubusercontent.com/34160094/154745557-7c2705e9-c89f-45a9-a164-0ccfce0b1dc7.png)
 
 5. What else could you tell about sales from given data sample?
 
