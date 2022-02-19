@@ -39,7 +39,7 @@ Country AA has higest sales (table axe is millions, Eur), country CC has lowest 
 
 5. What else could you tell about sales from given data sample?
 
-By cheking max orders for each month it's sales for leagal customers dominating:
+By cheking max orders for each month - sales for leagal customers are dominating:
 
 ![image](https://user-images.githubusercontent.com/34160094/154795868-964fed8f-eea0-42e6-86a8-33cec1ae6bd0.png)
 
