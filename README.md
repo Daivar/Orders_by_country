@@ -10,11 +10,11 @@ Average monthly order is 64.4 Eur in January and slowly growing up to 66.5 Eur i
 
 Increase/decrease coul be depending on local events, prices, sales of products, but sales in CC country for legal customer is actually proving surges:
 
-![image](https://user-images.githubusercontent.com/34160094/154740972-34b15c2e-bc3b-4056-87c7-26e4c3a6dcdc.png)
+![image](https://user-images.githubusercontent.com/34160094/154797698-62c6e85a-5af8-4f85-a356-70d52eeffc82.png)
 
 It is some maximum orders distorting (jumping out) from regular sales report:
 
-![image](https://user-images.githubusercontent.com/34160094/154743880-12b26a2a-5e1a-4101-9589-2bce5e8d10dd.png)
+![image](https://user-images.githubusercontent.com/34160094/154797714-f1439830-14cf-42c4-a36f-0edff4cb61d2.png)
 
 3. In which country do we have the biggest share of sales (€) for companies (legal customers)?
 
