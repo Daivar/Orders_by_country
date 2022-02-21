@@ -6,6 +6,11 @@ Average monthly order is 64.4 Eur in January and slowly growing up to 66.5 Eur i
 
 ![image](https://user-images.githubusercontent.com/34160094/154797664-364846f4-04cb-4ea8-a37f-0de39122e2cc.png)
 
+Each country has it's own average level:
+
+![image](https://user-images.githubusercontent.com/34160094/154965890-bd64d444-bcba-4a35-a093-ea44e2125ffe.png)
+
+
 2. What are the reasons of average order (€) increase/decrease? Is it due to prices of products, sales for legal customers, number of products, etc.?
 
 Increase/decrease coul be depending on local events, prices, sales of products, but sales in CC country for legal customer is actually proving surges:
